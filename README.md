@@ -26,6 +26,8 @@ The local demonstration shows a plausible final answer passing a basic response 
 
 These results verify software behaviour using controlled fixtures. Evaluation with real model providers is a separate research activity.
 
+[Share an Agent Anvil reproduction or usage result](https://github.com/HetRachhadiya11/agent-anvil/issues/new?template=usage_report.yml) · [Usage and evaluation evidence](https://github.com/HetRachhadiya11/agent-anvil/blob/main/docs/USAGE.md)
+
 ## Research
 
 | Published work | Reference |
