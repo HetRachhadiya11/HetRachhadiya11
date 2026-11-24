@@ -1,8 +1,8 @@
 # Het Rachhadiya
 
-**Business intelligence · Data engineering research · Applied AI**
+**Business intelligence · Applied AI & machine learning research · Digital technology**
 
-I turn operational questions into data models, reporting and software that people can inspect and use. I work as a **Business Intelligence & Data Insights Analyst at Curo Group**, develop business applications for **Shubh Lam** on a voluntary basis, and research **AI reliability and cloud data architecture**.
+I enjoy the detective work behind a dashboard: tracing a number, finding what changed and building something useful from the answer. I work as a **Business Intelligence & Data Insight Analyst at Curo Group**, develop **digital applications for Shubh Lam** on a voluntary basis, and research **large language models (LLMs), AI agents, machine learning (ML) and cloud data architecture**.
 
 Bristol, United Kingdom · MSc Management (Business Analytics), **Distinction**, Swansea University
 
@@ -29,7 +29,10 @@ Bristol, United Kingdom · MSc Management (Business Analytics), **Distinction**,
 
 ## Technical focus
 
+- **AI and ML research:** LLMs, retrieval-augmented generation (RAG), agentic and multi-agent systems, knowledge graphs, agent evaluation and federated learning. Publication and software records below explain the scope and validation of each contribution.
+- **Digital technology:** B2B catalogue websites, staff portals, workflow design, role-based access, API integration and user-led improvements.
 - **Applied analytics:** SQL/T-SQL, Python, Power BI, DAX, Power Query, REST/OData APIs, data modelling and validation.
+- **Programming and web foundations:** C, C++, Java, HTML, PHP/MySQL, .NET and MATLAB, alongside data structures, algorithms and object-oriented programming. These complement my current Python and SQL work; C, C++ and Java are grounded in coursework and academic projects, including KEY D.
 - **Software practice:** Git, GitHub Actions, automated tests, schema validation, traceable outputs and technical documentation.
 - **Cloud architecture research:** Azure and AWS data platforms; ingestion and transformation design; Databricks/PySpark, Delta Lake and dbt; Bronze/Silver/Gold layers, metadata and lineage.
 
@@ -57,6 +60,6 @@ These results verify software behaviour using controlled fixtures. Evaluation wi
 
 ## Collaboration
 
-I welcome conversations about data engineering, business intelligence, agent evaluation and reproducible research. Development includes AI-assisted coding and documentation; the repository makes the implementation, checks and limitations available for inspection.
+I welcome conversations about business intelligence, digital technology, data engineering, LLM applications, AI-agent evaluation and reproducible AI/ML research. Development includes AI-assisted coding and documentation; the repository makes the implementation, checks and limitations available for inspection.
 
 [LinkedIn](https://www.linkedin.com/in/het-rachhadiya/) · [Research email](mailto:het315957@gmail.com) · [ORCID](https://orcid.org/0009-0008-9577-2906)
