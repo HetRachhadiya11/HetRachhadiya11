@@ -2,7 +2,7 @@
 
 **Business intelligence · Data engineering research · Applied AI**
 
-I turn operational questions into data models, reporting and software that people can inspect and use. I work as a **Data Insight Analyst at Curo Group**, develop business applications for **Shubh Lam** on a voluntary basis, and research **AI reliability and cloud data architecture**.
+I turn operational questions into data models, reporting and software that people can inspect and use. I work as a **Business Intelligence & Data Insights Analyst at Curo Group**, develop business applications for **Shubh Lam** on a voluntary basis, and research **AI reliability and cloud data architecture**.
 
 Bristol, United Kingdom · MSc Management (Business Analytics), **Distinction**, Swansea University
 
